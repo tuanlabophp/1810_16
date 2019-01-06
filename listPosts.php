@@ -1,7 +1,7 @@
 <?php
 	$post = [
-		"title" => "Tieu de bai viet 3",
-		"content" => "Noi dung bai viet 3",
+		"title" => "Tieu de bai viet (update_code)",
+		"content" => "Noi dung bai viet (update_code)",
 	];
 ?>
 <table border="1">
